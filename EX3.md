@@ -1,5 +1,6 @@
 # EX 3 SubQueries, Views and Joins 
 
+# DATE: 17/8/23
 
 ## Create employee Table
 ```sql
@@ -195,3 +196,6 @@ INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
 
    ## Right Join
  ![Screenshot 2023-09-27 094335](https://github.com/Nagul71/EX-3-SubQueries-Views-and-Joins/assets/118661118/7fe7c05b-ca77-4da2-9ab9-38a5f50a4879)
+
+ ## RESULT:
+ Hence successfully created a manager database and executed views and joins using SQL.
